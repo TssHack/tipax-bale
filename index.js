@@ -53,7 +53,7 @@ bot.on('message', async (msg) => {
     }
 
     // بررسی اینکه آیا متن 10 رقمی است و شامل عدد باشد (کد رهگیری تیپاکس)
-    if (userText.length === 10 && /^\d+$/.test(userText)) {
+    if (userText.length === 21 && /^\d+$/.test(userText)) {
         const trackingCode = userText;
 
         // بررسی کش برای جلوگیری از درخواست‌های تکراری

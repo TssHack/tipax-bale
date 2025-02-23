@@ -2,7 +2,7 @@ const BaleBot = require('node-telegram-bot-api');
 const axios = require('axios');
 
 // توکن ربات بله خود را وارد کنید
-const token = '2006942615:2xwO8Ldhbm5UfSNFKMRIX89Duj6vITHg9AGtAJm7'; // توکن ربات بله
+const token = '2071296181:C1ouATv8fb7OjzcR5y8aqlwtEnxlkPrMFCtNzqGz'; // توکن ربات بله
 const options = {
     baseApiUrl: 'https://tapi.bale.ai',
 };
